@@ -1,26 +1,19 @@
-# 👋 Hello, I'm Gauresh Gadhe
+# 👋 Hi there, I'm Gauresh Gadhe
 
-Welcome to my GitHub profile! I'm passionate about technology and open-source contributions.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuously learning new things. I'm currently exploring the world of software development, and I enjoy building small projects and experimenting with new tools.
 
-## 🔧 Technologies & Tools
+## 🚀 About Me
+- 🎓 Student & tech enthusiast
+- 💻 Love working on code and learning new programming languages
+- 🌱 Currently learning: Web development & Python
+- 📚 Interested in: Open-source, AI, automation, and creative coding
 
-- 🔹 Python, JavaScript, C++
-- 🔹 Git, Docker, Kubernetes
-- 🔹 React, Node.js
+## 🛠️ Languages & Tools
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
 
-## 🌱 Currently Learning
+## 📫 Connect with Me
+- GitHub: [gaureshgadhe1357](https://github.com/gaureshgadhe1357)
 
-- 🔸 Machine Learning
-- 🔸 Cloud Computing
-
-## 📈 GitHub Stats
-
-![Gauresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaureshgadhe1357&show_icons=true&hide_title=true)
-
-## 📫 How to Reach Me
-
-- 📧 Email: gaureshgadhe1357@example.com
-- 🌐 Portfolio: [https://gaureshgadhe.dev](https://gaureshgadhe.dev)
-
-Feel free to explore my repositories and connect with me!
-
+Thanks for visiting my profile
