@@ -1,19 +1,39 @@
-# 👋 Hi there, I'm Gauresh Gadhe
+### Hi there 👋 I'm Gauresh Gadhe!
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuously learning new things. I'm currently exploring the world of software development, and I enjoy building small projects and experimenting with new tools.
+🔭 I’m currently working on:
+- Learning Web Development
+- Exploring Python & JavaScript
 
-## 🚀 About Me
-- 🎓 Student & tech enthusiast
-- 💻 Love working on code and learning new programming languages
-- 🌱 Currently learning: Web development & Python
-- 📚 Interested in: Open-source, AI, automation, and creative coding
-
-## 🛠️ Languages & Tools
-- HTML, CSS, JavaScript
-- Python
+🌱 I’m currently learning:
+- React.js
+- Node.js
 - Git & GitHub
 
-## 📫 Connect with Me
-- GitHub: [gaureshgadhe1357](https://github.com/gaureshgadhe1357)
+💬 Ask me about:
+- Frontend development
+- Basic programming help
 
-Thanks for visiting my profile
+📫 How to reach me:
+- Email: gaureshgadhe1357@gmail.com *(replace with your real email if this is just a placeholder)*
+
+⚡ Fun fact:
+- I love solving coding challenges and building small projects for fun!
+
+---
+
+### 🛠️ Languages and Tools:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+---
+
+### 📈 GitHub Stats:
+
+![Gauresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaureshgadhe1357&show_icons=true&theme=radical)
+
+
